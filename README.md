@@ -1,1 +1,1 @@
-Start project in python with ALX
+input and output
