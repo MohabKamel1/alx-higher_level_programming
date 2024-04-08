@@ -5,10 +5,10 @@ const numArguments = process.argv.length.;
 
 // Check the number of arguments and print the corresponding message
 if (numArguments === 2) {
-  console.log("No argument");
+  console.log('No argument');
 } else if (numArguments === 3) {
-  console.log("Argument found");
+  console.log('Argument found');
 } else {
-  console.log("Arguments found");
+  console.log('Arguments found');
 }
 
