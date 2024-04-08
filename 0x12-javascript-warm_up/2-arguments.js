@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
 // Get the number of arguments passed (excluding the default two arguments)
-const numArguments = process.argv.length - 2;
+const numArguments = process.argv.length.;
 
 // Check the number of arguments and print the corresponding message
 if (numArguments === 2) {
