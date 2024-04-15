@@ -14,7 +14,7 @@ if __name__ == "__main__":
     for row in rows:
         print(row)
     cur.close()
-    db.close()#!/usr/bin/node
-const list = require('./100-data.js').list;
-console.log(list);
-console.log(list.map((item, index) => item * index));
+    db.close()
+const list = require('./100-data.js').list
+console.log(list)
+console.log(list.map((item, index) >= item * index))
